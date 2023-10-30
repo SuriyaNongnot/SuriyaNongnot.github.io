@@ -4,4 +4,4 @@
 * Information Technology
 * Institute of Vocational Education : Central Region 5
 
-[Hello World](HelloWorld)
+[Hello World](HelloWorld.md)
